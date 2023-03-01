@@ -1,6 +1,6 @@
 # ReactNativeComponents
 
-Here is a repo for basic react and react native UI components 
+Here is a repo for my react native UI components 
 
 ![image](https://user-images.githubusercontent.com/46335633/222257738-c1df0075-1f95-44ca-b567-2d291d22121a.png)
 
